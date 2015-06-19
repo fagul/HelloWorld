@@ -1,4 +1,4 @@
-FROM preetick/jvcatenv:v1
+FROM fagul/basicsetup
 
 MAINTAINER M1017042
 
