@@ -1,6 +1,5 @@
 FROM fagul/basicsetup
 
-MAINTAINER M1017042
 
 # Location of presentation URL
 ADD HelloWorldMaven.war /webapps/ 
